@@ -1,1 +1,4 @@
 cube_env
+ignore*
+*cache*
+testing.ipynb
